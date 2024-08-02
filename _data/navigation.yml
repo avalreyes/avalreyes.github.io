@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Proteomics"
-    url: /proteomics/    
+    url: /teaching/    
     
   - title: "Blog Posts"
-    url: /blog/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
