@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Andres Valentino Reyes, B.S"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Andres Valentino Reyes"
 description              : &description "A Student Exploring Proteomics"
 url                      : https://www.avreyes.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/andresvreyes"
   orcid            : "https://orcid.org/0000-0001-8761-802X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ReyesAndresV"
+  twitter          : "https://x.com/ReyesAndresV"
   vine             :
   weibo            :
   xing             :
